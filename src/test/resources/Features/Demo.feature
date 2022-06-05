@@ -30,4 +30,4 @@ Feature: This feature is to test web page launch in chrome browser
     When I enter text in search field
     And I click Google Search button
     Then The results are published
-    And I close the browser
+    #And I close the browser
